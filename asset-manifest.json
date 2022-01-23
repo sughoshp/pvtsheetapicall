@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pvtsheetapicall/static/css/main.c81b02ca.css",
+    "main.js": "/pvtsheetapicall/static/js/main.634a1e13.js",
+    "static/js/787.ed89764b.chunk.js": "/pvtsheetapicall/static/js/787.ed89764b.chunk.js",
+    "index.html": "/pvtsheetapicall/index.html",
+    "main.c81b02ca.css.map": "/pvtsheetapicall/static/css/main.c81b02ca.css.map",
+    "main.634a1e13.js.map": "/pvtsheetapicall/static/js/main.634a1e13.js.map",
+    "787.ed89764b.chunk.js.map": "/pvtsheetapicall/static/js/787.ed89764b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81b02ca.css",
+    "static/js/main.634a1e13.js"
+  ]
+}
