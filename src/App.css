@@ -8,11 +8,17 @@
 }
 .App_body {
   position: relative;
-  display: block;
+  display: absolute;
   background-color: rgb(93, 91, 91);
   justify-content: center;
+  align-items: center;
   width: 100%;
-  height: auto;
+  height: 600px;
+}
+.App_body p {
+  font-size: 30px;
+  margin: 10px;
+  color: aliceblue;
 }
 .bigborder {
   margin: 0;
@@ -23,7 +29,13 @@
 .actualbody {
   display: block;
   margin: 50px;
+  background-color: #2e2e2e;
 }
 .actualbody h2 {
   display: block;
+}
+.exshow {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
 }

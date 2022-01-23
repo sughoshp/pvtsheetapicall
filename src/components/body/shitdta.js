@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import "./sheetdta.css"
 
 // import { gapi } from 'gapi-script';
 function Sheet(props) {
@@ -46,10 +47,9 @@ function Sheet(props) {
 
     return (
         <div>
-            Hello world
             {sheetdata.map((elemt, index) => {
                 return (
-                    <div key={index}>
+                    <div className="output" key={index}>
                         {JSON.stringify(elemt)}
                     </div>
                 )
